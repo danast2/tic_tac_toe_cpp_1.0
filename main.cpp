@@ -1,5 +1,4 @@
 ﻿#include <SFML/Graphics.hpp>
-#include <iostream>
 #include <string>
 
 
@@ -62,7 +61,7 @@ bool win_game(char mas[3][3], char sign, string &cross_or_toe_or_draw) {
         return true;
     }
 
-    cout << "nothing success";
+    
     return false;
 }
 
