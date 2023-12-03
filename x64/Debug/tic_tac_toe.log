@@ -1,0 +1,16 @@
+﻿  main.cpp
+D:\cpp\tic_tac_toe\main.cpp(28,9): warning C4101: 'signs_in_row': unreferenced local variable
+D:\cpp\tic_tac_toe\main.cpp(109,25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\cpp\tic_tac_toe\main.cpp(110,25): warning C4244: 'initializing': conversion from 'T' to 'int', possible loss of data
+          with
+          [
+              T=float
+          ]
+D:\cpp\tic_tac_toe\main.cpp(163,46): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\tic_tac_toe\main.cpp(163,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+D:\cpp\tic_tac_toe\main.cpp(78,19): warning C4101: 'mouse': unreferenced local variable
+  tic_tac_toe.vcxproj -> D:\cpp\tic_tac_toe\x64\Debug\tic_tac_toe.exe
